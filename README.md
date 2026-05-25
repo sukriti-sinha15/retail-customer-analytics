@@ -82,10 +82,7 @@ Performed exploratory analysis to understand:
 
 * Revenue distribution
 * Purchasing trends
-* Country-wise sales contribution
 * Customer purchasing patterns
-
-![Revenue Contribution](revenue_contribution.png)
 
 ---
 
