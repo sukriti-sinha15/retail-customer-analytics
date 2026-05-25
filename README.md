@@ -85,7 +85,7 @@ Performed exploratory analysis to understand:
 * Country-wise sales contribution
 * Customer purchasing patterns
 
-![Revenue Analysis](images/revenue_distribution.png)
+![Revenue Analysis](revenue_distribution.png)
 
 ---
 
@@ -104,7 +104,7 @@ RFM analysis helped identify:
 * At-risk customers
 * Low-engagement customers
 
-![RFM Distribution](images/rfm_distribution.png)
+![RFM Distribution](rfm_distribution.png)
 
 ---
 
@@ -119,7 +119,7 @@ The segmentation process helped identify:
 * Low-engagement customers
 * Revenue-contributing segments
 
-![Customer Segments](images/cluster_plot.png)
+![Customer Segments](cluster_plot.png)
 
 ---
 
@@ -133,7 +133,7 @@ Cohort analysis was conducted to evaluate:
 
 The analysis revealed changes in retention behavior across different customer acquisition periods.
 
-![Cohort Heatmap](images/cohort_heatmap.png)
+![Cohort Heatmap](cohort_heatmap.png)
 
 ---
 
@@ -159,7 +159,7 @@ were identified as potential churn-risk customers.
 
 The analysis provides insights that can support targeted customer retention strategies and personalized marketing interventions.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ---
 
@@ -204,17 +204,6 @@ Potential future enhancements include:
 * Interactive dashboard deployment using Streamlit
 * Real-time customer analytics pipelines
 * Deep learning-based customer behavior modeling
-
----
-
-# 📁 Repository Structure
-
-```bash
-├── retail_customer_analytics.ipynb
-├── README.md
-├── requirements.txt
-└── images/
-```
 
 ---
 
