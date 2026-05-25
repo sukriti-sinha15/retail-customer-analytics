@@ -85,7 +85,7 @@ Performed exploratory analysis to understand:
 * Country-wise sales contribution
 * Customer purchasing patterns
 
-![RFM Distribution](revenue_contribution.png)
+![Revenue Contribution](revenue_contribution.png)
 
 ---
 
